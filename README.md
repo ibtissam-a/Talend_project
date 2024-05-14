@@ -18,7 +18,7 @@ I aim to merge multiple tables into a unified dataset and export it as a CSV fil
 * Join using tMap component: The tMap component can merge many tables at a time Thus we used only one tMap component.
 ![Alt Text](https://github.com/ibtissam-a/Talend_project/blob/master/tMap.JPG)
 
-In this folder you will found the source code of the talend jobs: supermarket
+In this folder you will found the source code of the talend jobs: [supermarket](https://github.com/ibtissam-a/Talend_project/blob/master/Supermarket.zip)
 
 <h1> Create your Data base </h1>
 
@@ -30,4 +30,4 @@ In this github folder you will found the sql script to create the database. You 
 The above scripts will assist you to create your data base as shown on the image follow.
 ![Alt Text](https://github.com/ibtissam-a/Talend_project/blob/master/schema_and_tables.JPG)
 
-In this project we worked on a data set from kaggle. You can click this link and check it: Kaggle
+In this project we worked on a data set from kaggle. You can click this link and check it: [Kaggle](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data)
