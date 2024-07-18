@@ -1,4 +1,4 @@
-<h1>Talend Project</h1>
+<h1>Supermarket Talend Project</h1>
 
 
 This project aims to extract data from csv files, do some transformations and load it on the data base.
